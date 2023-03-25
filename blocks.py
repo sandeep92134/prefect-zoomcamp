@@ -15,7 +15,7 @@ block.save("default", overwrite=True)
 
 
 gh = GitHub(
-    repository="https://github.com/anna-geller/prefect-zoomcamp", reference="main"
+    repository="https://github.com/sandeep92134/prefect-zoomcamp", reference="main"
 )
 gh.save("zoomcamp", overwrite=True)
 
